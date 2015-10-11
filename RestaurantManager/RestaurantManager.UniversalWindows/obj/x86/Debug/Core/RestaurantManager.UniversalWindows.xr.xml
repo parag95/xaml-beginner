@@ -73,6 +73,7 @@
     </RootType>
     <RootType FullName="RestaurantManager.UniversalWindows.MainPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="Name" />
       <RootProperty Name="BorderBrush" />
       <RootProperty Name="ItemsSource" />
       <RootProperty Name="ItemContainerStyle" />
