@@ -865,3 +865,12 @@ C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManage
 C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
 C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\WinMetadata\Windows.winmd
 C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.UniversalWindows.build.appxrecipe
+C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models.dll
+C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models.pdb
+C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml
+C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models.pdb
+C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models.dll
+C:\Users\Parag\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml

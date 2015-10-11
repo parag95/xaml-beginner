@@ -5,18 +5,36 @@
     xmlns:local="using:RestaurantManager.UniversalWindows"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d">
+    xmlns:DataManager="using:RestaurantManager.Models"
+    mc:Ignorable="d"
+    
+    >
+    <Page.TopAppBar>
+        <AppBar>
+            <AppBarButton Icon="Home" Click="AppBarButton_Click"></AppBarButton>
+        </AppBar>
 
-    <Grid Background="Black">
+    </Page.TopAppBar>
+    <Page.DataContext>
+        <DataManager:DataManager/>
+    </Page.DataContext>
+
+    <Grid Background="Black" >
         <Grid.RowDefinitions>
             <RowDefinition Height="0.9*"></RowDefinition>
             <RowDefinition Height="0.1*"></RowDefinition>
             
         </Grid.RowDefinitions>
-        <AppBar Grid.ColumnSpan="3">
-            <AppBarButton Icon="Home" Click="AppBarButton_Click"></AppBarButton>
-        </AppBar>
-        <Grid Grid.Row="0" ></Grid>
+        
+        <GridView Grid.Row="0" ItemsSource="{Binding OrderItems}" >
+            <GridView.ItemContainerStyle>
+                <Style TargetType="GridViewItem">
+                    <Setter Property="FontSize" Value="30"></Setter>
+                    <Setter Property="Foreground" Value="White"></Setter>
+                </Style>
+            </GridView.ItemContainerStyle>
+        </GridView>
+        
         <Button Content="Clear All Orders" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center"></Button>
     </Grid>
 </Page>
